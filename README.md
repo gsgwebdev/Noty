@@ -1,2 +1,2 @@
 # Noty
-A CRUD built with PHP and MySQL
+A CRUD built with XAMPP.

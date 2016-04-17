@@ -2,4 +2,4 @@
 
 A CRUD built with XAMPP.
 
-[Demo](docs/more_words.md)
+[Demo](https://notylib.herokuapp.com)

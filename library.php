@@ -1,9 +1,9 @@
 <?php
-  require_once 'processing/init.php';
+  require_once 'init.php';
 ?>
 
 <?php
-  require_once '_partials/_head.html';
+  require_once '_head.html';
 ?>
 
 <div class="wrapper-library">
@@ -11,7 +11,7 @@
     <div class="logo-wrapper">
       <div class="logo"></div>
       <?php
-      require_once '_partials/head_link.php'
+      require_once 'head_link.php'
       ?>
     </div>
     <div class="action-wrapper">
@@ -41,10 +41,10 @@
         while ($row = $stmt->fetch(PDO::FETCH_ASSOC)) {
             echo <<< EOF
               <section class="unit-wrap">
-                <a href="#">
+                <a href="note.php?book_isbn={$row['book_isbn']}">
                   <img src="{$row['book_cover']}" alt="Cover"/>
                 </a>
-                <a href="http://localhost:81/Noty/note.php?book_isbn={$row['book_isbn']}" class="book-title">{$row['book_title']}</a>
+                <a href="note.php?book_isbn={$row['book_isbn']}" class="book-title">{$row['book_title']}</a>
                 <span class="book-details">Author: {$row['book_author']}</span>
                 <span class="book-details">ISBN: {$row['book_isbn']}</span>
                 <span class="book-details">Rate: {$row['book_rate']}/10</span>
@@ -67,5 +67,5 @@ EOF;
   </main>
 </div>
 <?php
-  require_once '_partials/_footer.html';
+  require_once '_footer.html';
 ?>

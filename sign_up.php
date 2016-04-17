@@ -25,6 +25,10 @@
       <label for="username">
         <input type="text" placeholder="Username" name="username" id="username"
                <?php
+                  $values = $form->getFields();
+                  $userValue = $values['username'];
+                  $emailValue = $values['email'];
+
                   $errors = $form->getFieldsErr();
                   $nameErr = $errors['username'];
                   $emailErr = $errors['email'];
@@ -35,7 +39,7 @@
                   $validUser = $valids['username'];
                   $validEmail = $valids['email'];
 
-                  if ($validUser) echo "value='$validUser'";
+                  if ($validUser) echo "value='$userValue'";
                ?>
         />
         <span class="error"> <?php echo $nameErr; ?> </span>
@@ -43,7 +47,7 @@
       <label for="email">
         <input type="text" placeholder="Email" name="email" id="email"
          <?php
-            if ($validEmail) echo "value='$validEmail'";
+            if ($validEmail) echo "value='$emailValue'";
          ?>
           />
         <span class="error"> <?php echo $emailErr; ?> </span>

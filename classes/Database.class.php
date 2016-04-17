@@ -2,11 +2,10 @@
 
 class Database {
   // Credentials
-  private $url;
-  private $server;
-  private $username;
-  private $password;
-  private $db;
+  private $server = 'localhost';
+  private $username = 'root';
+  private $password = '';
+  private $db = 'noty';
 
   // The connection object is initially set to null
   private $conn = null;
@@ -27,13 +26,6 @@ class Database {
   }
 
   private function __construct() {
-    // Credentials
-    $this->url = parse_url(getenv("CLEARDB_DATABASE_URL"));
-    $this->server = $this->url["host"];
-    $this->username = $this->url["user"];
-    $this->password = $this->url["pass"];
-    $this->db = substr($this->url["path"], 1);
-
     try {
       $this->conn = new PDO("mysql:host={$this->server};dbname={$this->db}", $this->username, $this->password);
       $this->conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);

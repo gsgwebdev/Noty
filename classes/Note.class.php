@@ -14,10 +14,9 @@ class Note {
     try {
       $query = "SELECT * FROM notes";
       $stmt = $this->conn->prepare($query);
-     return $stmt;
-
+      return $stmt;
     } catch (PDOException $e) {
-      die("The ISBN code is not valid " . $e->getMessage());
+      die("The notes cannot be fetched. Error: " . $e->getMessage());
     }
   }
 
@@ -34,7 +33,7 @@ class Note {
       $stmt = $this->conn->prepare($query);
       $stmt->execute(array(':user'=>$username, ':title'=>$title, ':author'=>$author, ':isbn'=>$isbn, ':rate'=>$rate, ':link'=>$link, ':cover'=>$cover, ':intro'=>$intro, ':body'=>$body));
     } catch (PDOException $e) {
-      die("The ISBN code is not valid " . $e->getMessage());
+      die("The note cannot be added. Error: " . $e->getMessage());
     }
   }
 
@@ -45,7 +44,7 @@ class Note {
       $stmt->execute(array(':isbn'=>$isbn));
       return $stmt;
     } catch (PDOException $e) {
-      die("The ISBN code is not valid " . $e->getMessage());
+      die("The note cannot be fetched. Error: " . $e->getMessage());
     }
   }
 
@@ -55,7 +54,7 @@ class Note {
       $stmt = $this->conn->prepare($query);
       $stmt->execute(array(':initISBN'=>$initISBN, ':title'=>$title, ':author'=>$author, ':isbn'=>$isbn, ':rate'=>$rate, ':link'=>$link, ':cover'=>$cover, ':intro'=>$intro, ':body'=>$body));
     } catch (PDOException $e) {
-      die("The ISBN code is not valid " . $e->getMessage());
+      die("The note cannot be updated. Error: " . $e->getMessage());
     }
   }
 
@@ -65,7 +64,7 @@ class Note {
       $stmt = $this->conn->prepare($query);
       $stmt->execute(array(':isbn'=>$isbn));
     } catch (PDOException $e) {
-      die("The ISBN code is not valid " . $e->getMessage());
+      die("The note cannot be deleted. Error: " . $e->getMessage());
     }
   }
 

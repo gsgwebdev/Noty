@@ -44,8 +44,7 @@ class User {
       $numRows = $stmt->rowCount();
       $process = [];
 
-
-      // if the user/email exists in db
+      // If the user/email exists in db
       if ($numRows == 1) {
        if (password_verify($pass, $row['user_pass'])) {
          $_SESSION['user_session'] = $row['user_id'];
@@ -61,7 +60,6 @@ class User {
       $process[0] = 'false';
       $process[1] = 'Incorrect Username/Email or Password';
       return $process;
-
     } catch (PDOException $e) {
       die('There is something wrong. Please contact the administrator.' . $e->getMessage());
     }
@@ -69,7 +67,6 @@ class User {
 
   public function loggedIn() {
     if (isset($_SESSION['user_session'])) return true;
-
     return false;
   }
 

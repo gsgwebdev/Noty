@@ -1,7 +1,5 @@
 <?php
-require_once 'includes/init.php';
-
-$homeLink = $user->loggedIn() ? "library.php" : "index.php";
+  require_once 'processing/init.php';
 ?>
 
 <?php
@@ -13,7 +11,7 @@ $homeLink = $user->loggedIn() ? "library.php" : "index.php";
     <div class="logo-wrapper">
       <div class="logo"></div>
       <?php
-        echo "<a class='logo-txt' href='". $homeLink . "'>Noty</a>";
+      require_once '../_partials/head_link.php'
       ?>
     </div>
     <div class="action-wrapper">

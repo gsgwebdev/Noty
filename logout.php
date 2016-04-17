@@ -1,7 +1,7 @@
 <?php
-require_once 'includes/init.php';
+require_once 'processing/init.php';
 
 if($user->loggedIn()) {
   $user->logOut();
-  header("Location: index.php");
+  header('Location: index.php');
 }

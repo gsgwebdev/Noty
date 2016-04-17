@@ -92,7 +92,7 @@ header {
 /*** INDEX ** */
 .main-index {
   min-height: 100vh;
-  background-image: url(../../cover.jpg);
+  background-image: url(../img/cover.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -258,6 +258,21 @@ header {
 .body {
   font-size: 1.25em;
   line-height: 1.25em; }
+
+/*** 404 ** */
+.main-404 {
+  text-align: center;
+  overflow: hidden;
+  height: 100vh; }
+  .main-404 h1 {
+    font-size: 4em;
+    margin: 3em 0 0.5em; }
+  .main-404 h2 {
+    font-size: 1.5em;
+    margin-bottom: 1em; }
+  .main-404 a {
+    color: #cccccc;
+    font-size: 1.25em; }
 
 /*** MEDIA QUERIES ** */
 @media (max-width: 1200px) {

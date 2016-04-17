@@ -1,13 +1,9 @@
 <?php
-require_once 'includes/init.php';
-
-$homeLink = $user->loggedIn() ? "library.php" : "index.php";
-
-$userID = $user->getID();
+  require_once 'processing/init.php';
 ?>
 
 <?php
-  require_once '_partials/_head.html'
+require_once '_partials/_head.html'
 ?>
 
 <div class="wrapper-library">
@@ -15,7 +11,8 @@ $userID = $user->getID();
     <div class="logo-wrapper">
       <div class="logo"></div>
       <?php
-        echo "<a class='logo-txt' href='". $homeLink . "'>Noty</a>";
+        if (!$user->loggedIn()) header('Location: 404.php');
+        require_once '_partials/head_link.php';
       ?>
     </div>
     <div class="action-wrapper">
@@ -48,8 +45,8 @@ $userID = $user->getID();
            <img src="{$row['book_cover']}" alt="Cover"/>
            </a>
            <a href="http://localhost:81/Noty/note.php?book_isbn={$row['book_isbn']}" class="book-title">{$row['book_title']}</a>
-           <span class="book-details">ISBN: {$row['book_isbn']}</span>
            <span class="book-details">Author: {$row['book_author']}</span>
+           <span class="book-details">ISBN: {$row['book_isbn']}</span>
            <span class="book-details">Rate: {$row['book_rate']}/10</span>
            <span class="book-details"><a href="{$row['book_link']}">Buy the book</a></span>
            <span class="intro">{$row['book_intro']}</span>

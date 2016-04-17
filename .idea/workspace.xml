@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cd0fa34-66a3-4c17-8345-0aa08264a487" name="Default" comment="" />
+    <ignored path="Noty.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/db.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1458581428668" ignored="false" />
+    <file path="/index.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459877894386" ignored="false" />
+    <file path="/user.class.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1458583192266" ignored="false" />
+    <file path="/dbconfig.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1458586158567" ignored="false" />
+    <file path="/User.class.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460478380561" ignored="false" />
+    <file path="/session.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459094207648" ignored="false" />
+    <file path="/home.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1458654622706" ignored="false" />
+    <file path="/logout.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459178716388" ignored="false" />
+    <file path="/profile.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1458594459991" ignored="false" />
+    <file path="/sign-up.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459026358429" ignored="false" />
+    <file path="/dummy.xml" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459179676717" ignored="false" />
+    <file path="$PROJECT_DIR$/../Login/style.css" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1458666302443" ignored="false" />
+    <file path="/Database.class.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460478210465" ignored="false" />
+    <file path="/main.sass" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460888573882" ignored="false" />
+    <file path="/style.css" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1458666301229" ignored="false" />
+    <file path="/sign_up.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460889202187" ignored="false" />
+    <file path="$PROJECT_DIR$/../Login/sign-up.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459026358851" ignored="false" />
+    <file path="/sign_in.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459029631481" ignored="false" />
+    <file path="/login.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460888865177" ignored="false" />
+    <file path="/library.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460887448659" ignored="false" />
+    <file path="/Note.class.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460478719604" ignored="false" />
+    <file path="/new.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460889117492" ignored="false" />
+    <file path="/note.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460887642094" ignored="false" />
+    <file path="/my_notes.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459674072494" ignored="false" />
+    <file path="/edit.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460888686863" ignored="false" />
+    <file path="/delete.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459685414047" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_cs.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_pt_PT.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/demo/marketo/index.html" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_my.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_es_AR.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_de.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_uk.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_bg.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_zh_TW.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_ar.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/methods_es_CL.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_fa.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_hr.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_ru.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/methods_de.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_mk.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_lv.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_sr_lat.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_hy_AM.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_sl.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_da.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_fr.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_id.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_es.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_cs.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_tj.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_pl.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_vi.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_bg.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_es_AR.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_de.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_pt_PT.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_kk.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/methods_nl.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_si.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/methods_pt.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/methods_fi.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_eu.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_pt_BR.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_hr.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_uk.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_it.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_ko.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_bn_BD.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_he.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_id.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_tr.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_gl.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_is.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_kk.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/demo/index.html" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_nl.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_ja.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_ca.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_el.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_sk.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_ka.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/methods_es_CL.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_sv.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_lv.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_sr_lat.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_eu.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_es_PE.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_da.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_pt_BR.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_ka.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_et.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_tj.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_el.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_my.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_sk.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_zh.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_ca.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_ge.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_nl.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_sl.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_ge.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_no.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_zh_TW.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_hu.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_it.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_sr.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_es.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/additional-methods.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/additional-methods.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_no.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_he.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_zh.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_bn_BD.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_lt.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/methods_pt.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_fa.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_ro.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_th.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_ko.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_fr.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/methods_de.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_th.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_ro.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_mk.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_sr.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_ja.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_vi.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_hy_AM.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_et.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_is.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/methods_nl.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_fi.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_es_PE.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_lt.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270856" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_sv.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270857" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_pl.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270857" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_ar.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270857" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_si.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270857" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_fi.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270857" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_ru.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270857" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_gl.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270857" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_tr.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270857" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/messages_hu.min.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270857" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/dist/localization/methods_fi.js" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270857" ignored="false" />
+    <file path="$PROJECT_DIR$/../validation/demo/marketo/step2.htm" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459694270857" ignored="false" />
+    <file path="$PROJECT_DIR$/../auth/public/index.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459712551240" ignored="false" />
+    <file path="$PROJECT_DIR$/../auth/app/start.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459713017139" ignored="false" />
+    <file path="/start.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459712789635" ignored="false" />
+    <file path="/Dummy.txt" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460890392497" ignored="false" />
+    <file path="C:/php-getting-started/web/index.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459878175726" ignored="false" />
+    <file path="C:/notylib/Database.class.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1459884000172" ignored="false" />
+    <file path="C:/notylib/noty.sql" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460049741749" ignored="false" />
+    <file path="C:/notylib/one_table.sql" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460046786364" ignored="false" />
+    <file path="/noty.sql" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460049726900" ignored="false" />
+    <file path="/Controller_base.class.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460481439775" ignored="false" />
+    <file path="/Registry.class.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460474972221" ignored="false" />
+    <file path="/Router.class.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460475999068" ignored="false" />
+    <file path="/Template.class.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460476010573" ignored="false" />
+    <file path="/index2.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460479972788" ignored="false" />
+    <file path="$PROJECT_DIR$/../MVC/index.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460476167362" ignored="false" />
+    <file path="/init.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460833098554" ignored="false" />
+    <file path="/a.dummy" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460480894575" ignored="false" />
+    <file path="/index_Controller.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460479010402" ignored="false" />
+    <file path="$PROJECT_DIR$/../MVC/controller/indexController.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460481538237" ignored="false" />
+    <file path="$PROJECT_DIR$/../MVC/application/router.class.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460481448625" ignored="false" />
+    <file path="C:/notylib/main.css" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460487152940" ignored="false" />
+    <file path="/Form.class.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460835540176" ignored="false" />
+    <file path="/test.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460497487056" ignored="false" />
+    <file path="/edit2.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460832957188" ignored="false" />
+    <file path="/_head.html" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460889321339" ignored="false" />
+    <file path="/404.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460888350239" ignored="false" />
+    <file path="/editProcessing.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460890211662" ignored="false" />
+    <file path="/newProcessing.php" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460890822006" ignored="false" />
+    <file path="/_footer.html" changelist="1cd0fa34-66a3-4c17-8345-0aa08264a487" time="1460891404695" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Noty" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="404.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/404.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="2" selection-start="250" selection-end="250" vertical-scroll-proportion="-7.8461537">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="delete.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/delete.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="library.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="21.807692">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="4.8076925">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.sass" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logout.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logout.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my_notes.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my_notes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="23.76923">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/new.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="35.307693">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="note.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/note.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.61438847">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/_partials/_head.html" />
+        <option value="$PROJECT_DIR$/new.php" />
+        <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/note.php" />
+        <option value="$PROJECT_DIR$/library.php" />
+        <option value="$PROJECT_DIR$/my_notes.php" />
+        <option value="$PROJECT_DIR$/processing/init.php" />
+        <option value="$PROJECT_DIR$/processing/newProcessing.php" />
+        <option value="$PROJECT_DIR$/_partials/_footer.html" />
+        <option value="$PROJECT_DIR$/classes/Form.class.php" />
+        <option value="$PROJECT_DIR$/classes/Note.class.php" />
+        <option value="$PROJECT_DIR$/classes/User.class.php" />
+        <option value="$PROJECT_DIR$/processing/editProcessing.php" />
+        <option value="$PROJECT_DIR$/processing/loginProcessing.php" />
+        <option value="$PROJECT_DIR$/processing/signupProcessing.php" />
+        <option value="$PROJECT_DIR$/delete.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-14" />
+    <option name="y" value="15" />
+    <option name="width" value="1456" />
+    <option name="height" value="905" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Noty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Noty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Noty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Noty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Noty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="processing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Noty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Noty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Noty" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Noty\assets\css" />
+      <recent name="C:\xampp\htdocs\Noty\view" />
+      <recent name="C:\xampp\htdocs\Noty" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Noty\processing" />
+      <recent name="C:\xampp\htdocs\Noty" />
+      <recent name="C:\xampp\htdocs\Noty\pages" />
+      <recent name="C:\xampp\htdocs\Noty\assets\SQL" />
+      <recent name="C:\xampp\htdocs\Noty\classes" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cd0fa34-66a3-4c17-8345-0aa08264a487" name="Default" comment="" />
+      <created>1458576165805</created>
+      <updated>1458576165805</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-14" y="15" width="1456" height="905" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24970692" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24031563" sideWeight="0.6706349" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936507" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/classes/User.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="54" selection-start="2123" selection-end="2123" vertical-scroll-proportion="-44.46154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processing/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="301" selection-end="301" vertical-scroll-proportion="-11.769231">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processing/editProcessing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="55" selection-start="61" selection-end="61" vertical-scroll-proportion="-0.65384614">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processing/loginProcessing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="55" selection-start="61" selection-end="61" vertical-scroll-proportion="-0.65384614">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processing/newProcessing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="6" selection-end="61" vertical-scroll-proportion="-0.65384614">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processing/signupProcessing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="55" selection-start="61" selection-end="61" vertical-scroll-proportion="5.4615383">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="2" selection-start="250" selection-end="250" vertical-scroll-proportion="-7.8461537">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="21.807692">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="4.8076925">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_notes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="23.76923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="35.307693">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.61438847">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

@@ -1,0 +1,13 @@
+# Hide the extension of the files
+Options -Multiviews
+
+RewriteEngine On
+
+RewriteBase /notyMVC/public
+
+RewriteCond %{REQUEST_FILENAME}% !-d
+RewriteCond %{REQUEST_FILENAME}% !-f
+RewriteCond %{REQUEST_FILENAME}% !-l
+
+RewriteRule ^(.+)$ index.php?rt=$1 [QSA,L]
+
